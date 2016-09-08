@@ -1,6 +1,5 @@
 # The &lt;frame&gt; tag
 
-## The tag...
 &lt;frame&gt; is an HTML element which defines a particular area within the HTML Document in which another HTML document can be displayed. 
 
 Frames allow you to have multiple sections of the browser window, called frames, each showing their own `.html` file within the frame. This used to be common practice when trying to show separate sections of a site in separate sections of the browser window, such as a header at the top, navigation at the side, and the rest was page content that someone could scroll down without making the header and navigation disappear.
