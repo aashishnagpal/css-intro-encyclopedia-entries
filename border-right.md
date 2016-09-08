@@ -30,7 +30,7 @@ This can take any valid CSS color as its value. Valid color includes all the 140
 When we set the value to inherit, the element will inherit the border values set on its parent (or any ancestor, whichever has this property defined for itself; the CSS engine traverses from current element until the topmost parent).
 
 
-## Examples
+## Usage
 
 ### Example 1
 
