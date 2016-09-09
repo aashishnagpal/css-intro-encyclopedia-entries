@@ -1,7 +1,6 @@
 # &lt;th&gt;
 
-The *table header* cell, **&lt;th&gt;**, contains header information that describes table cells and can only be a child of a &lt;tr&gt; element. It has a default text value of bold and centered. <!--The standard cell (`td`) is the second type of cell used inside of an HTML table it contains data relevant to its header.
--->  
+The *table header* cell, **&lt;th&gt;**, contains header information that describes table cells and can only be a child of a &lt;tr&gt; element. It has a default text value of bold and centered. 
 ## Atrributes
 
 The &lt;th&gt; tag contains four unique attributes.
