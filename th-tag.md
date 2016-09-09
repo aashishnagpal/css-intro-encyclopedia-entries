@@ -65,7 +65,7 @@ The code:
  </table>
 ```
 
-## Example 2: rowspan attribute
+## Example 2
 
 In this example we use the `rowspan` attribute to extend the rows.
 
@@ -121,7 +121,7 @@ The code:
 </table>	
 ```
 
-## Example 3: scope attribute
+## Example 3
 
 In this example we use the `scope` attribute in the second column and first row to identify their relationship to the table data. The first column contains numbers for the rows.
 
@@ -187,7 +187,7 @@ The code:
 </table>
 ```
 
-## Example 4:
+## Example 4
 
 In this example we use the `headers` attribute to identify the relationship between &lt;th&gt; tags and their cells.
 
